@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.content {
+  background-color: #fcc;
+  width: 600px;
+  margin: 10px auto;
+}
